@@ -26,21 +26,41 @@ div_class: lead
               <td> Speaker 1 </td>
             </tr>
             <tr>
-              <td>08:00</td>
-              <td> Training the Community for High-Quality Reviewing </td>
+              <td>08:30</td>
+              <td> Fair Engagement</td>
               <td> Speaker 1 </td>
             </tr>
             <tr>
-              <td>10:45</td>
-              <td>Poster Session / Coffee Break</td>
+              <td>09:00</td>
+              <td> Double-Blind Peer Review</td>
+              <td> Speaker 1 </td>
+            </tr>
+            <tr>
+              <td>09:30</td>
+              <td> Best Practices Across Communities</td>
+              <td> Speaker 1 </td>
+            </tr>      
+            <tr>
+              <td>09:30</td>
+              <td> Panel</td>
+              <td> Panel </td>
+            </tr>       
+            <tr>
+              <td>10:30</td>
+              <td>Coffee Break</td>
               <td></td>
             </tr>            
             <tr>
-              <td>08:00</td>
-              <td> Training the Community for High-Quality Reviewing </td>
-              <td> Speaker 1 </td>
-            </tr>
+              <td>11:00</td>
+              <td> Think–pair–share</td>
+              <td> Think–pair–share </td>
+            <tr>
               <td>12:30</td>
+              <td> Reflections</td>
+              <td> Final Panel </td>
+            </tr>  
+            </tr>
+              <td>13:00</td>
               <td><b>The Good Reviewer</b>: Shaping up the future of peer-review process</td>
               <td></td>
             </tr>
