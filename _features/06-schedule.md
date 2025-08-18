@@ -55,6 +55,7 @@ div_class: lead
               <td> Think–pair–share</td>
               <td> Think–pair–share </td>
             <tr>
+            <tr>
               <td>12:30</td>
               <td> Reflections</td>
               <td> Final Panel </td>
@@ -65,4 +66,4 @@ div_class: lead
               <td></td>
             </tr>
           </tbody>
-        </table>
+</table>
