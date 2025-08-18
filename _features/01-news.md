@@ -13,5 +13,5 @@ div_class: lead
 <!--* <strong>May 03, 2025</strong> - The submission deadline (~~May 4~~) is extended to <span style="color:red;">May 26</span>! -->
 <!--* <strong>April 7, 2025</strong> - [Submissions Portal](#/features/05-call-for-papers) is now open! Please submit your paper via [CMT](https://cmt3.research.microsoft.com/UniVSLAM2025/Track/1/Submission/Create). -->
 <!--* <strong>Mar 24, 2025</strong> - We are excited to host the first workshop on <strong>Unifying Visual SLAM</strong> at <a href="https://roboticsconference.org/">RSS 2025</a>! -->
-* <strong>Aug 18, 2026</strong> - First workshop on <strong>Shaping up the future of peer-review process
+* <strong>Aug 18, 2026</strong> - First workshop (proposal) on <strong>Shaping up the future of peer-review process
 </strong> at <a href="https://2026.ieee-icra.org/">ICRA 2026</a>!

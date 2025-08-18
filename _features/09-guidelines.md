@@ -63,7 +63,7 @@ div_class: lead
 <div>
   <div class="tab-buttons">
     <button class="active" onclick="showTab('tab1', this)">Existing</button>
-    <button onclick="showTab('tab8', this)">New</button>
+    <button onclick="showTab('tab2', this)">New</button>
   </div>
 
   <div id="tab1" class="tab-content active">
