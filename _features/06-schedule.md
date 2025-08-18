@@ -23,28 +23,18 @@ div_class: lead
             <tr>
               <td>08:00</td>
               <td> Training the Community for High-Quality Reviewing </td>
-              <td> Speaker 1 </td>
+              <td> Block speakers 1 </td>
             </tr>
             <tr>
-              <td>08:30</td>
+              <td>08:50</td>
               <td> Fair Engagement</td>
-              <td> Speaker 1 </td>
+              <td> Block speakers 2 </td>
             </tr>
             <tr>
-              <td>09:00</td>
+              <td>09:40</td>
               <td> Double-Blind Peer Review</td>
-              <td> Speaker 1 </td>
-            </tr>
-            <tr>
-              <td>09:30</td>
-              <td> Best Practices Across Communities</td>
-              <td> Speaker 1 </td>
-            </tr>      
-            <tr>
-              <td>09:30</td>
-              <td> Panel</td>
-              <td> Panel </td>
-            </tr>       
+              <td> Block speakers 3 </td>
+            </tr>          
             <tr>
               <td>10:30</td>
               <td>Coffee Break</td>
