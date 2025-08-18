@@ -7,12 +7,6 @@ div_class: lead
 # image: "http://placehold.it/500x500"
 ---
 
-A curated list of resources to help unify and standardize the landscape of Visual SLAM, Structure-from-Motion, datasets, tools, and educational content. This page collects links to key projects, foundational papers, tools, and talks.
-
-🔗 Find the most up-to-date list here: [Unifying Visual SLAM GitHub Repository](https://github.com/VSLAM-LAB/Unifying-Visual-SLAM)
-
-👋 Contributions are welcome! Feel free to open an issue or submit a pull request to suggest more tools, papers, or resources.
-
 <style>
   .tab-buttons {
     display: flex;
@@ -68,15 +62,8 @@ A curated list of resources to help unify and standardize the landscape of Visua
 
 <div>
   <div class="tab-buttons">
-    <button class="active" onclick="showTab('tab1', this)">VSLAM</button>
-    <button onclick="showTab('tab8', this)">SfM</button>
-    <button onclick="showTab('tab3', this)">Benchmark</button>
-    <button onclick="showTab('tab4', this)">Datasets</button>
-    <button onclick="showTab('tab2', this)">Education</button>
-    <button onclick="showTab('tab5', this)">Foundational</button>
-    <button onclick="showTab('tab6', this)">Talks</button>
-    <button onclick="showTab('tab9', this)">Tools</button>
-    <button onclick="showTab('tab7', this)">More</button>
+    <button class="active" onclick="showTab('tab1', this)">Existing</button>
+    <button onclick="showTab('tab8', this)">New</button>
   </div>
 
   <div id="tab1" class="tab-content active">
