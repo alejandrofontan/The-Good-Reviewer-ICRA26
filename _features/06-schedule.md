@@ -1,7 +1,7 @@
 ---
 id: Schedule
 name: Schedule
-heading: Schedule
+heading: Schedule (To be confirmed)
 div_class: lead
 # subheading: Will Seal the Deal.
 ---
