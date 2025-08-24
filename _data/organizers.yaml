@@ -10,17 +10,17 @@
   position: PhD Candidate
   affiliation: Queensland University of Technology
 
-- name: Daniel Seita
-  image: /assets/images/daniel_seita.jpeg
-  web: https://www.linkedin.com/in/daniel-seita-51326288/
-  position: Assistant Professor
-  affiliation: University of Southern California
+- name: Irene Ballester Campos
+  image: /assets/images/irene_ballester_campos.jpg
+  web: https://cvl.tuwien.ac.at/staff/irene-ballester-campos/
+  position: PhD Student
+  affiliation: Technische Universität Wien
 
-- name: Jana Tumova
-  image: /assets/images/jana_tumova.jpeg
-  web: https://www.linkedin.com/in/jana-tumova-3a511253/
-  position: Associate Professor
-  affiliation: KTH Royal Institute of Technology
+- name: Riccardo Giubilato
+  image: /assets/images/riccardo_giubilato.jpeg
+  web: https://www.linkedin.com/in/riccardo-giubilato-486448131/
+  position: Researcher
+  affiliation: German Aerospace Center (DLR)
   
 - name: Javier Civera
   image: /assets/images/javier_civera.jpeg
