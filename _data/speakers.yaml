@@ -1,12 +1,12 @@
-- name: Tamim Asfour
-  image: /assets/images/tamin_asfour.jpeg
-  web: https://www.linkedin.com/in/tamim-asfour-829979a/
-  position: Professor
-  affiliation: EPFL
-
 - name: Aude Billard
   image: /assets/images/aude_billard.jpg
   web: https://people.epfl.ch/aude.billard
+  position: Professor
+  affiliation: EPFL
+
+- name: Tamim Asfour
+  image: /assets/images/tamin_asfour.jpeg
+  web: https://www.linkedin.com/in/tamim-asfour-829979a/
   position: Professor
   affiliation: Karlsruhe Institute of Technology
 
