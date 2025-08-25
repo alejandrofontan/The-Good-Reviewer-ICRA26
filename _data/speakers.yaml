@@ -22,21 +22,8 @@
   position: Assistant Professor
   affiliation: Stanford University
 
-- name: Wolfram Burgard
-  image: /assets/images/wolfram_burgard.jpeg
-  web: https://www.linkedin.com/in/burgard/
+- name: Ken Goldberg
+  image: /assets/images/ken_goldberg.jpeg
+  web: https://goldberg.berkeley.edu/
   position: Professor
-  affiliation: University of Technology Nuremberg
-  
-- name: Sanjiv Singh
-  image: /assets/images/sanjiv_singh.jpeg
-  web: https://www.linkedin.com/in/sanjiv-singh-8571824/
-  position: CEO 
-  affiliation: Near Earth Autonomy
-
-- name: Laura Leal-Taixe
-  image: /assets/images/laura_leal-taixe.jpeg
-  web: https://www.linkedin.com/in/lealtaixe/
-  position: Senior Research Manager 
-  affiliation: NVIDIA
-
+  affiliation: UC Berkeley
