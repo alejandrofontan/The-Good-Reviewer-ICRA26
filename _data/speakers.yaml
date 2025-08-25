@@ -2,8 +2,26 @@
   image: /assets/images/tamin_asfour.jpeg
   web: https://www.linkedin.com/in/tamim-asfour-829979a/
   position: Professor
+  affiliation: EPFL
+
+- name: Aude Billard
+  image: /assets/images/aude_billard.jpg
+  web: https://people.epfl.ch/aude.billard
+  position: Professor
   affiliation: Karlsruhe Institute of Technology
-  
+
+- name: Antonio Bicchi
+  image: /assets/images/antonio_bicchi.jpeg
+  web: https://www.iit.it/people/antonio-bicchi
+  position: Professor 
+  affiliation: IIT & University of Pisa
+
+- name: Jeannette Bohg
+  image: /assets/images/jeannette_bogh.png
+  web: https://web.stanford.edu/~bohg/
+  position: Assistant Professor
+  affiliation: Stanford University
+
 - name: Wolfram Burgard
   image: /assets/images/wolfram_burgard.jpeg
   web: https://www.linkedin.com/in/burgard/
@@ -16,20 +34,9 @@
   position: CEO 
   affiliation: Near Earth Autonomy
 
-- name: Torsten Sattler
-  image: /assets/images/torsten_sattler.jpeg
-  web: https://www.professoren.tum.de/en/dai-angela
-  position: Senior Researcher
-  affiliation: Czech Institute of Informatics, Robotics and Cybernetics
-  
 - name: Laura Leal-Taixe
   image: /assets/images/laura_leal-taixe.jpeg
   web: https://www.linkedin.com/in/lealtaixe/
   position: Senior Research Manager 
   affiliation: NVIDIA
 
-- name: Antonio Bicchi
-  image: /assets/images/antonio_bicchi.jpeg
-  web: https://www.linkedin.com/in/shehryar-khattak/
-  position: Professor 
-  affiliation: University of Bologna
