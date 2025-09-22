@@ -57,7 +57,7 @@ div_class: lead
             </tr>   
             <tr>
               <td>10:30</td>
-              <td>Coffee Break</td>
+              <td style="text-align:center; color:#b45309; font-weight:600;">Coffee Break</td>
               <td></td>
             </tr>            
             <tr>
