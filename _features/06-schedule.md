@@ -16,25 +16,45 @@ div_class: lead
   </thead>
   <tbody>
             <tr>
-              <td> </td>
+              <td> 08:30 </td>
               <td>Opening Remarks</td>
               <td>Organizing Committee</td>
             </tr>
             <tr>
-              <td>08:00</td>
-              <td> Training the Community for High-Quality Reviewing </td>
-              <td> Block speakers 1 </td>
+              <td>08:45</td>
+              <td> Training the Community for High-Quality Reviewing  </td>
+              <td> Tamin Asfour </td>
             </tr>
             <tr>
-              <td>08:50</td>
+              <td>09:00</td>
+              <td> “How to review” for doctoral students</td>
+              <td> Serena Ivaldi </td>
+            </tr>
+            <tr>
+              <td>09:15</td>
+              <td> AUTOLAB Advice on Reviewing Papers</td>
+              <td> Ken Golberg </td>
+            </tr>     
+            <tr>
+              <td>09:30</td>
+              <td> Beyond the “Submission Surge”: Distributing Reviews and Training New Reviewer</td>
+              <td> Antonio Bicchi </td>
+            </tr>  
+            <tr>
+              <td>09:45</td>
               <td> Fair Engagement</td>
-              <td> Block speakers 2 </td>
-            </tr>
+              <td> Nadia Figueroa </td>
+            </tr>     
             <tr>
-              <td>09:40</td>
+              <td>10:00</td>
+              <td> Peer review and whether, and if so how, to use GenAI tools for reviewing</td>
+              <td> Jeannette Bohg </td>
+            </tr>     
+            <tr>
+              <td>10:15</td>
               <td> Double-Blind Peer Review</td>
-              <td> Block speakers 3 </td>
-            </tr>          
+              <td> Aude Billard </td>
+            </tr>   
             <tr>
               <td>10:30</td>
               <td>Coffee Break</td>
