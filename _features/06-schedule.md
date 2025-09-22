@@ -18,7 +18,7 @@ div_class: lead
             <tr>
               <td> 08:30 </td>
               <td style="color:#2563eb;">Opening Remarks</td>
-              <td>Organizing Committee</td>
+              <td></td>
             </tr>
             <tr>
               <td>08:45</td>
