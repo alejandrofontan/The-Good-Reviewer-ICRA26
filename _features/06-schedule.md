@@ -17,7 +17,7 @@ div_class: lead
   <tbody>
             <tr>
               <td> 08:30 </td>
-              <td>Opening Remarks</td>
+              <td style="text-align:center; color:#b45309; font-weight:600;">Opening Remarks</td>
               <td>Organizing Committee</td>
             </tr>
             <tr>
@@ -62,17 +62,17 @@ div_class: lead
             </tr>            
             <tr>
               <td>11:00</td>
-              <td> Think-pair-share Session</td>
+              <td style="text-align:center; color:#b45309; font-weight:600;">Think-pair-share Session</td>
               <td> Javier Civera </td>
             <tr>
             <tr>
               <td>12:00</td>
-              <td> Moderated Final Panel</td>
+              <td style="text-align:center; color:#b45309; font-weight:600;">Moderated Final Panel</td>
               <td> Tobias Fischer </td>
             </tr>  
             </tr>
               <td>12:30</td>
-              <td><b>The Good Reviewer</b>: Shaping up the future of peer-review process</td>
+              <td style="text-align:center; color:#b45309; font-weight:600;"><b>The Good Reviewer</b>: Shaping up the future of peer-review process</td>
               <td></td>
             </tr>
   </tbody>
