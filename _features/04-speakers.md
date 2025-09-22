@@ -1,7 +1,7 @@
 ---
 id: Invited Speakers
 name: Invited Speakers
-heading: Invited Speakers (To be confirmed)
+heading: Invited Speakers
 # subheading: Is Pretty Cool Too.
 # image: "http://placehold.it/500x500"
 ---
