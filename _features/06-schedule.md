@@ -62,12 +62,12 @@ div_class: lead
             </tr>            
             <tr>
               <td>11:00</td>
-              <td style="text-align:center; color:#2563eb;">Think-pair-share Session</td>
+              <td style="text-align:center;">Think-pair-share Session</td>
               <td> Javier Civera </td>
             <tr>
             <tr>
               <td>12:00</td>
-              <td style="text-align:center; color:#2563eb;">Moderated Final Panel</td>
+              <td style="text-align:center;">Moderated Final Panel</td>
               <td> Tobias Fischer </td>
             </tr>  
             </tr>
