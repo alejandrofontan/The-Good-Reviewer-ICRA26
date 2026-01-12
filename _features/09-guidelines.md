@@ -4,7 +4,7 @@ name: Guidelines
 heading: Guidelines for the Review Process in the Robotics Research Community
 div_class: lead
 # subheading: Will Catch Your Eye
-# image: "http://placehold.it/500x500"
+image: "http://placehold.it/500x500"
 ---
 
 <style>

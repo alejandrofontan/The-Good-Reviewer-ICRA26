@@ -1,9 +1,11 @@
 <header>
-  <div class='headline'>
+  <div class='headline' {% if page.image %} style="background-image: url('{{ page.image }}'); background-size: cover; background-position: center; background-repeat: no-repeat;" {% endif %}>
     <div class='container'>
-      <h1>{{ page.heading }}</h1>
-      <h2>{{ page.subheading }}</h2>
-      <h2>{{ page.subheading2 }}</h2>
+      <div class="heading-inner">
+        <h1>{{ page.heading }}</h1>
+        <h2>{{ page.subheading }}</h2>
+        <h2>{{ page.subheading2 }}</h2>
+      </div>
     </div>
   </div>
 </header>
