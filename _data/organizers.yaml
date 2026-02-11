@@ -27,6 +27,24 @@
   web: https://www.linkedin.com/in/riccardo-giubilato-486448131/
   position: Researcher
   affiliation: German Aerospace Center (DLR)
+
+- name: Marta Lorenzini
+  image: /assets/images/marta_lorenzini.jpeg
+  web: https://www.linkedin.com/in/marta-lorenzini-656a09155/
+  position: Senior Technician
+  affiliation: Istituto Italiano di Tecnologia 
+
+- name: Marta Lagomarsino
+  image: /assets/images/marta_lagomarsino.jpeg
+  web: https://www.linkedin.com/in/marta-lagomarsino/
+  position: Postdoctoral Researcher
+  affiliation: Istituto Italiano di Tecnologia
+
+- name: Paolo Robuffo
+  image: /assets/images/paolo_robuffo.jpg
+  web: https://www.linkedin.com/in/paolo-robuffo-giordano-6a809417/
+  position: Senior CNRS Researcher 
+  affiliation: IRISA
   
 - name: Javier Civera
   image: /assets/images/javier_civera.jpeg
