@@ -16,62 +16,52 @@ div_class: lead
   </thead>
   <tbody>
             <tr>
-              <td> 08:30 </td>
+              <td> 09:00 </td>
               <td style="color:#2563eb;">Opening Remarks</td>
               <td></td>
             </tr>
             <tr>
-              <td>08:45</td>
-              <td> Training the Community for High-Quality Reviewing  </td>
-              <td> Tamin Asfour </td>
+              <td>09:05</td>
+              <td> Overview of the Review Process  </td>
+              <td> Aude Billard </td>
             </tr>
             <tr>
-              <td>09:00</td>
+              <td>09:20</td>
               <td> “How to review” for doctoral students</td>
               <td> Serena Ivaldi </td>
             </tr>
             <tr>
-              <td>09:15</td>
+              <td>09:40</td>
               <td> AUTOLAB Advice on Reviewing Papers</td>
               <td> Ken Golberg </td>
-            </tr>     
-            <tr>
-              <td>09:30</td>
-              <td> Beyond the “Submission Surge”: Distributing Reviews and Training New Reviewer</td>
-              <td> Antonio Bicchi </td>
-            </tr>  
-            <tr>
-              <td>09:45</td>
-              <td> Fair Engagement</td>
-              <td> Nadia Figueroa </td>
-            </tr>     
+            </tr>
             <tr>
               <td>10:00</td>
-              <td> Peer review and whether, and if so how, to use GenAI tools for reviewing</td>
+              <td> Panel I: Generative AI in the Review Process </td>
               <td> Jeannette Bohg </td>
-            </tr>     
-            <tr>
-              <td>10:15</td>
-              <td> Double-Blind Peer Review</td>
-              <td> Aude Billard </td>
-            </tr>   
+            </tr>
             <tr>
               <td>10:30</td>
               <td style="text-align:center; color:#b45309; font-weight:600;">Coffee Break</td>
               <td></td>
-            </tr>            
+            </tr>
             <tr>
               <td>11:00</td>
-              <td>Think-pair-share Session</td>
-              <td> Javier Civera </td>
+              <td>Young Reviewers Program (YRP)</td>
+              <td> Marta Lorenzini  </td>
             <tr>
             <tr>
-              <td>12:00</td>
-              <td>Moderated Final Panel</td>
-              <td> Tobias Fischer </td>
-            </tr>  
+              <td>11:15</td>
+              <td>Panel II: Editors and AE Selection, IROS-ICRA Transfer, and Community Engagement</td>
+              <td>  </td>
             </tr>
-              <td>12:30</td>
+            <tr>
+              <td>11:45</td>
+              <td>Panel III: Double Blind and Social Media</td>
+              <td>  </td>
+            </tr>
+            </tr>
+              <td>12:15</td>
               <td style="color:#2563eb;"><b>The Good Reviewer</b>: Shaping up the future of peer-review process</td>
               <td></td>
             </tr>

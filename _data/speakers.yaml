@@ -13,7 +13,7 @@
 - name: Antonio Bicchi
   image: /assets/images/antonio_bicchi.jpeg
   web: https://www.iit.it/people/antonio-bicchi
-  position: Professor 
+  position: Professor
   affiliation: IIT & University of Pisa
 
 - name: Jeannette Bohg
@@ -34,8 +34,8 @@
   position: Professor
   affiliation: Universite de Lorraine
 
-- name: Nadia Figueroa
-  image: /assets/images/nadia_figueroa.jpeg
-  web: https://nbfigueroa.github.io/
-  position: Assistant Professor
-  affiliation: University of Pennsylvania
+# - name: Nadia Figueroa
+#   image: /assets/images/nadia_figueroa.jpeg
+#   web: https://nbfigueroa.github.io/
+#   position: Assistant Professor
+#   affiliation: University of Pennsylvania
