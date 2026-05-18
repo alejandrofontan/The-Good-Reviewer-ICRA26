@@ -4,6 +4,15 @@
   <meta name='viewport' content='width=device-width, initial-scale=1'>
   <meta name='description' content='{{ site.description }}'>
 
+  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/images/bg.png" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ site.title }}" />
+  <meta name="twitter:description" content="{{ site.description }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/images/bg.png" />
+
   <title>{{ site.title }}</title>
 
   <link href='{{ site.baseurl }}/assets/app.css' rel='stylesheet' type='text/css'>
