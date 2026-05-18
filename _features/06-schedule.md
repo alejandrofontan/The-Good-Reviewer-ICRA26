@@ -6,6 +6,8 @@ div_class: lead
 # subheading: Will Seal the Deal.
 ---
 
+<p> The venue for the workshop is <a href="https://maps.app.goo.gl/djs3bfidi4PNMRJt8"> Busines Suite 1-2, VIECON – Vienna Congress & Convention Center </a>. 
+
 <table>
   <thead>
             <tr>
