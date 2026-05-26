@@ -29,12 +29,12 @@ div_class: lead
             </tr>
             <tr>
               <td>09:20</td>
-              <td> Generative AI for Review</td>
+              <td> Generative AI for Review </td>
               <td> Jeannette Bohg </td>
             </tr>
             <tr>
               <td>09:40</td>
-              <td> IEEE RAS Reviews </td>
+              <td> IEEE RAS reviews: How much do authors review and who reviews your papers? </td>
               <td> Aude G. Billard </td>
             </tr>
             <tr>
@@ -59,8 +59,8 @@ div_class: lead
             </tr>
             <tr>
               <td>11:35</td>
-              <td> Panel II: Double Blind / Social Media / Community </td>
-              <td> Antonio Bicchi, Aude G. Billard, Tobias Fischer, Nadia Figueroa </td>
+              <td> Double Blind / Social Media / AC, IROS-ICRA Transfer, Community Engagement </td>
+              <td> Antonio Bicchi, Aude G. Billard, Sneha Rhode Gupta, Tobias Fischer, Nadia Figueroa </td>
             </tr>
             </tr>
               <td>12:15</td>
