@@ -24,23 +24,23 @@ div_class: lead
             </tr>
             <tr>
               <td>09:05</td>
-              <td> Overview of the Review Process  </td>
-              <td> Aude Billard </td>
+              <td> Fair Engagement  </td>
+              <td> Ken Goldberg </td>
             </tr>
             <tr>
               <td>09:20</td>
-              <td> “How to review” for doctoral students</td>
-              <td> Serena Ivaldi </td>
+              <td> Generative AI for Review</td>
+              <td> Jeannette Bohg </td>
             </tr>
             <tr>
               <td>09:40</td>
-              <td> AUTOLAB Advice on Reviewing Papers</td>
-              <td> Ken Golberg </td>
+              <td> IEEE RAS Reviews </td>
+              <td> Aude G. Billard </td>
             </tr>
             <tr>
               <td>10:00</td>
-              <td> Panel I: Generative AI in the Review Process </td>
-              <td> Jeannette Bohg </td>
+              <td> Panel I: Generative AI </td>
+              <td> Jeannette Bohg, Ken Goldberg, Javier Civera, Tamim Asfour </td>
             </tr>
             <tr>
               <td>10:30</td>
@@ -49,22 +49,22 @@ div_class: lead
             </tr>
             <tr>
               <td>11:00</td>
-              <td>Young Reviewers Program (YRP)</td>
-              <td> Marta Lorenzini  </td>
+              <td> Young Reviewers Program </td>
+              <td> Marta Lorenzini, Marta Lagomarsino, Paolo Robuffo Giordano  </td>
             <tr>
             <tr>
               <td>11:15</td>
-              <td>Panel II: Editors and AE Selection, IROS-ICRA Transfer, and Community Engagement</td>
-              <td>  </td>
+              <td>“How to review” for doctoral students </td>
+              <td> Serena Ivaldi </td>
             </tr>
             <tr>
-              <td>11:45</td>
-              <td>Panel III: Double Blind and Social Media</td>
-              <td>  </td>
+              <td>11:35</td>
+              <td> Panel II: Double Blind / Social Media / Community </td>
+              <td> Antonio Bicchi, Aude G. Billard, Tobias Fischer, Nadia Figueroa </td>
             </tr>
             </tr>
               <td>12:15</td>
-              <td style="color:#2563eb;"><b>The Good Reviewer</b>: Shaping up the future of peer-review process</td>
+              <td> Closing Remarks </td>
               <td></td>
             </tr>
   </tbody>
