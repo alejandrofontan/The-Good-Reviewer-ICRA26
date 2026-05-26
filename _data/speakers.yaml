@@ -34,8 +34,14 @@
   position: Professor
   affiliation: Universite de Lorraine
 
-# - name: Nadia Figueroa
-#   image: /assets/images/nadia_figueroa.jpeg
-#   web: https://nbfigueroa.github.io/
-#   position: Assistant Professor
-#   affiliation: University of Pennsylvania
+- name: Nadia Figueroa
+  image: /assets/images/nadia_figueroa.jpeg
+  web: https://nbfigueroa.github.io/
+  position: Assistant Professor
+  affiliation: University of Pennsylvania
+
+- name: Sneha Rhode Gupta
+  image: /assets/images/sneha_gupta.jpg
+  web: https://www.linkedin.com/in/sneha-rhode-gupta-a5a3a811a/
+  position: Editor in Chief
+  affiliation: Wiley
